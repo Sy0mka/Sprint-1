@@ -82,7 +82,7 @@ sprint_one/
 ## 👨💻 Разработчики
 Семён  
 📧 Электронная почта: [s020601s@mail.ru](mailto:s020601s@mail.ru)  
-📱 ВКонтакте: [semmma_dgi](https://vk.com/semmma_dgi)  
+📱 ВКонтакте: [semmma_dgi](https://vk.com/semma_dgi)  
 ✈️ Telegram: [@SeMMA00](https://t.me/SeMMA00)
 
 Репозиторий на GitHub:  
