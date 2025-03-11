@@ -39,5 +39,12 @@ REST API для управления данными о горных перева
 ### Локальная настройка
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/Sy0mka/fstr-project.git
-cd fstr-project
+git clone https://github.com/Sy0mka/Sprint-1.git
+cd Sprint-1
+
+## 📡 Использование API
+Метод	               URL	                                    Описание
+POST	           /submitData/	                            Добавить новый перевал
+GET	             /submitData/{id}/	                      Получить запись по ID
+PATCH	           /submitData/{id}/	                      Редактировать запись (только status=new)
+GET	             /submitData/?user__email={email}	        Фильтрация по email
